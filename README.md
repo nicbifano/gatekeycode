@@ -16,4 +16,3 @@ initial vague steps:
 	1. email sending
 	2. registration of user information
 	3. administration
-
